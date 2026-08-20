@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+logs/
+airflow/logs/
+airflow/.env
+dbt/target/
+dbt/logs/
+dbt_packages/
+retail_analytics_raw/
+*.pbix.bak
+*.tmp
