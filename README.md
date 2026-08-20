@@ -198,6 +198,23 @@ Average order value trends
 Sales versus order volume
 Daily unique customers
 Order volume and average order value
+## 📊 Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive-overview.png)
+
+### Product Performance
+
+![Product Performance](screenshots/product-performance.png)
+
+### Customer Performance
+
+![Customer Performance](screenshots/customer-performance.png)
+
+### Sales Analysis
+
+![Sales Analysis](screenshots/sales-analysis.png)
 📊 Key Results
 
 The final analytical model currently produces:
